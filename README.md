@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Astridcs27
 - 👀 I’m interested in coding and software development
-- 🌱 I’m currently studying Computer Science at UCF
+- 🌱 I’m currently studying Computer Engineering at UCF
 - 📫 How to reach me: astrid.rodsant@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play piano
